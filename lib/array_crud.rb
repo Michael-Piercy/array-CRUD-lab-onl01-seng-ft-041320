@@ -9,7 +9,6 @@ end
 def add_element_to_end_of_array(array, element)
   kids = ["Matt", "Mikey", "Jason", "Jake"]
   kids << "Heather"
-  puts kids.inspect
 end
 
 def add_element_to_start_of_array(array, element)
