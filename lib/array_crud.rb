@@ -16,7 +16,7 @@ def add_element_to_start_of_array(array, element)
   kids.unshift("wow")
 end
 
-def remove_element_from_end_of_array(array)
+def remove_element_from_end_of_array(kids)
   kids = ["Matt", "Mikey", "Jason", "Jake"]
   kids.pop
 end
